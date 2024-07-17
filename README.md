@@ -1,7 +1,3 @@
 # Unit 12 Homework: Eat Safe, Love
 
-The homework instructions and requirements are located in Canvas (or in the 08-Canvas folder for those cohorts not on Canvas).
-
-- - -
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
